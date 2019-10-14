@@ -1,0 +1,218 @@
+name: nHCF
+version: 1.1
+author: JOM3C4, iPiru_
+main: com.zdev.hcf.Base
+softdepend:
+- ProtocolLib
+- Vault
+commands:
+  reply:
+    aliases:
+    - r
+  broadcast:
+    aliases:
+    - bc
+  message:
+    aliases:
+    - tell
+    - m
+    - msg
+    - w 
+    - whisper
+    - me
+  togglemessage:
+    aliases:
+    - togglepm
+  teleport:
+    aliases:
+    - tp
+  vanish:
+    aliases:
+    - v
+  stats: null
+  ffa: null
+  glowstone: null
+  top: null
+  reset: null
+  copyinv: null
+  reclaim: null
+  fsay: null
+  tl: null
+  whois: null
+  setkb: null
+  drop: null
+  king: null
+  rank: null
+  hat: null
+  staffmode:
+    aliases:
+    - mod
+    - h
+    - staff
+  feed:
+    aliases:
+    - eat
+  spawndragon:
+    description: Spawns an Ender-Dragon
+  heal: null
+  skull: null
+  sudo: null
+  enchant: null
+  playtime:
+    aliases:
+    - pt
+  endportal: null
+  setspawn: null
+  world: null
+  kill: null
+  lockdown: null
+  clear:
+    aliases:
+    - ci
+  ping: null
+  disablechat:
+    aliases:
+    - mc
+  more: null
+  lff: null
+  cobble: null
+  staffchat:
+    aliases:
+    - sc
+  gamemode:
+    aliases:
+    - gm
+  coords: null
+  pv:
+    aliases:
+    - playervault
+    - playervaults
+  teleportall:
+    aliases:
+    - tpall
+  teleporthere:
+    aliases:
+    - tphere
+    - s
+  god: null
+  set: null
+  lag: null
+  invsee: null
+  rename: null
+  fly: null
+  panic: null
+  fix:
+    aliases:
+    - repair
+  give: null
+  item:
+    aliases:
+    - i
+  random:
+    description: Teleports or gets a random player.
+  sotw:
+    description: Starts a 30 minute SOTW timer.
+  reboot:
+    description: Starts a reboot timer.
+  sale:
+    description: Start a store-wide sale.
+  keysale:
+    description: Start a store-wide keysale.
+  tkey:
+    description: Start a store-wide Tripple Key.
+  dkey:
+    description: Start a store-wide Double Key.
+  wsale:
+    description: Start a store-wide Weekend Sale.
+  refund:
+    description: Refunds an inventory.
+  crowbar:
+    description: Management of crowbar tools.
+  freeze:
+    aliases:
+    - ss
+  report: null
+  helpop: null
+  diamond: null
+  emerald: null
+  ruby: null
+  keyall: null
+  gold: null
+  litebans: null
+  mapkit:
+    description: Management of crowbar tools.
+  gmc:
+    description: Management of crowbar tools.
+  gms:
+    description: Management of crowbar tools.
+  staffrevive: null
+  conquest:
+    description: Command used to handle Conquest events.
+  economy:
+    aliases:
+    - bal
+    - balance
+    - money
+    - eco
+    description: Command used to modify the economy.
+  eotw:
+    description: Sets if the server is in End of the World mode.
+  event:
+    description: Command used to manage minigame events.
+  faction:
+    aliases:
+    - f
+    - fac
+    description: Faction related commands.
+  gopple:
+    description: Command to check remaining OP apple cooldown time.
+    aliases:
+    - goppletimer
+    - goppletime
+  koth:
+    description: Make or delete KotH arenas.
+  lives:
+    description: Management of lives or deathbans.
+  logout:
+    aliases:
+    - disconnect
+    description: Command to safely logout without an NPC spawning.
+  ores:
+    description: Obtain keys to unlock awesome loot.
+  pay:
+    description: Allow players to pay money.
+  pvptimer:
+    aliases:
+    - pvp
+    description: to enable or disable pvp timer protection.
+  setborder:
+    aliases:
+    - setbordersize
+    description: Sets the border size of an Environment.
+  teamspeak:
+    aliases:
+    - ts
+    description: Show's player the ip for the teamspeak.
+  spawn:
+    description: Teleport to the server spawn.
+  help: null
+  list: null
+  spawner: null
+  timer:
+    description: Command to manage timers.
+  famous:
+     description: command famous
+  youtube:
+     description: command yt
+  recording: 
+     description: command rec
+  newvideo:
+     description: command newvideo 
+  author:
+     description: author core
+  miniyt:
+     description: command miniyt
+  grapple:
+     description: command grapple
+  kingevent:
+     description: command king event   

@@ -1,0 +1,83 @@
+# You can use %PLAYER% for player name or %RANK% for rank name
+# An example can be seen below
+Member:
+  rankname: 'Member'
+  commands:
+    - 'cr givekey %PLAYER% silver 1'
+Oxy:
+  rankname: 'Oxy'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &b&l%RANK% &epackage!'
+    - 'cr givekey %PLAYER% silver 3'
+    - 'cr givekey %PLAYER% gold 1'
+Hydra:
+  rankname: 'Hydra'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &9&l%RANK% &epackage!'
+    - 'cr givekey %PLAYER% silver 5'
+    - 'cr givekey %PLAYER% gold 3'
+    - 'cr givekey %PLAYER% diamond 1'
+Nitro:
+  rankname: 'Nitro'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &c&l%RANK% &epackage!'
+    - 'cr givekey %PLAYER% silver 8'
+    - 'cr givekey %PLAYER% gold 5'
+    - 'cr givekey %PLAYER% diamond 3'
+    - 'cr givekey %PLAYER% emerald 1'
+Zera:
+  rankname: 'Zera'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &5&l%RANK% &epackage!'
+    - 'cr givekey %PLAYER% gold 8'
+    - 'cr givekey %PLAYER% diamond 5'
+    - 'cr givekey %PLAYER% emerald 3'
+    - 'cr givekey %PLAYER% inject 1'
+Inject:
+  rankname: 'Inject'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &a&l%RANK% &epackage!'
+    - 'cr givekey %PLAYER% gold 12'
+    - 'cr givekey %PLAYER% diamond 8'
+    - 'cr givekey %PLAYER% emerald 5'
+    - 'cr givekey %PLAYER% inject 3'
+YouTuber:
+  rankname: 'YouTuber'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &c%RANK% &e&package!'
+    - 'cr givekey %PLAYER% gold 8'
+    - 'cr givekey %PLAYER% diamond 5'
+    - 'cr givekey %PLAYER% emerald 3'
+    - 'cr givekey %PLAYER% inject 1'
+Famous:
+  rankname: 'Famous'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &d%RANK% &epackage!'
+    - 'cr givekey %PLAYER% gold 8'
+    - 'cr givekey %PLAYER% diamond 5'
+    - 'cr givekey %PLAYER% emerald 3'
+    - 'cr givekey %PLAYER% inject 1'
+Partner:
+  rankname: 'Partner'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &d&l%RANK% &epackage!'
+    - 'cr givekey %PLAYER% gold 12'
+    - 'cr givekey %PLAYER% diamond 8'
+    - 'cr givekey %PLAYER% emerald 5'
+    - 'cr givekey %PLAYER% inject 3'
+OWNERPlayer:
+  rankname: 'OWNERPlayer'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &4%RANK% &epackage!'
+    - 'cr givekey %PLAYER% gold 16'
+    - 'cr givekey %PLAYER% diamond 12'
+    - 'cr givekey %PLAYER% emerald 8'
+    - 'cr givekey %PLAYER% inject 5'
+Builder:
+  rankname: 'Builder'
+  commands:
+    - 'bc &e&l%PLAYER% &ehas used &7/reclaim &eto receive their &2%RANK% &epackage!'
+    - 'cr givekey %PLAYER% gold 8'
+    - 'cr givekey %PLAYER% diamond 5'
+    - 'cr givekey %PLAYER% emerald 3'
+    - 'cr givekey %PLAYER% inject 1'

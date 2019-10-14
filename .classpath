@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jordi/Desktop/dependenacias/ExoSpigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jordi/Desktop/dependenacias/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jordi/Desktop/dependenacias/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jordi/Desktop/dependenacias/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jordi/Desktop/dependenacias/worldedit-6.1.5-SNAPSHOT-bukkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jordi/Desktop/dependenacias/PermissionsEx-1.22.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

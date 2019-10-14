@@ -1,0 +1,143 @@
+# 
+#                    HCF                                  #
+#                  Author: zDev                           #
+#                   Version: 1.1                          #
+HWID: ''
+Scoreboard_title: '&e&lSunPvP &7| &6HCF MAPBETA'
+SCOREBOARD:
+  KILLEVENT:
+    TITLE: "&6King Event"
+    KING: "&eKing&7: &f%king%"
+    LOCATION: "&eLocation&7: &f%location%"
+    PRIZE: "&ePrize&7: &f%prize%"
+TAB:
+  ENABLE: true
+  TITLE: "&e&lSunPvP"
+  COLOR: "&6"
+  END-PORTALS: "750, 750"
+  BORDER: "3000x3000"
+SERVER-INFO:
+  STORE: "store.sunpvp.com"
+  TEAMSPEAK: "ts.sunpvp.com"
+  TWITTER: "@SunPvP"
+  SERVER_NAME: "SunPvP NetWork"
+
+KITMAP-INFO: 
+Kitmap:
+  Sharpness: 1
+  Protection: 1
+
+Features:
+kits-mode: false
+tab-list: true
+block-in-combat: true
+
+SERVER_NAME: SunPvP
+DONATE_URL: hcf.com
+SPAWN_NO_BREAK_RADIUS: 150
+WARZONE_RADIUS: 150
+NETHER_WARZONE_RADIUS: 300
+Scoreboard:
+  Kills:
+    Name: '&fKills&7: &6%kills%'
+  Deaths:
+    Name: '&fDeaths&7: &6%deaths%'
+  Staffboard:
+    Name: '&6Staff Mode'
+  Vanish:
+    Name: " &e\xbb &fVanish&7: &f%vanish%"
+  StaffChat:
+    Name: " &e\xbb &fStaffChat&7: &f%staffchat%"
+MAX-FACTION: 25
+MAX-ALLY: 0
+Colours:
+  PRIMARY-COLOR: '&3&l'
+  SECONDARY-COLOR: '&b'
+  TIMER-COLOR: '&e'
+DEFAULT_DEATHBAN_DURATION: 3600000
+WILDERNESS_COLOUR: DARK_GREEN
+WARZONE_COLOUR: RED
+SAFEZONE_COLOUR: AQUA
+TEAMMATE_COLOUR: DARK_GREEN
+ALLY_COLOUR: BLUE
+ENEMY_COLOUR: RED
+ROAD_COLOUR: GOLD
+GLOWSTONE_COLOUR: GOLD
+COMBATLOG_DESPAWN_DELAY_TICKS: 300
+potionLimits:
+  STRENGTH: 0
+  INVISIBILITY: 1
+  REGEN: 0
+  WEAKNESS: 0
+  INSTANT_DAMAGE: 0
+  SLOWNESS: 1
+  POISON: 1
+potionsExtendedDisallowed: POISON SLOWNESS
+
+MESSAGES-INFO:
+Help:
+- '&8&m------------------------------------'
+- '&2&lMap Infomation&7:'
+- '&7Current Map&8 - &fMap 1'
+- '&7Map Border&8 - &f3000'
+- '&7Map Kit&8 - &f/mapkit'
+- '&8&m------------------------------------'
+- '&2&lUseful Commands&7:'
+- '&7/coords - &fProvides the coordinates for KoTH Locations'
+- '&7/teamspeak - &fProvides the Teamspeak Server IP'
+- '&7/mapkit - &fProvides you with the Map Information on Enchant Limits and Potions'
+- '&7/report <Player> <Reason> - &fA command to report rule-breakers'
+- '&7/helpop <Message> - &fAlerts online Staff Members that you are in need of assistance'
+- '&8&m------------------------------------'
+- '&2&lOther infomation&7:'
+- '&7Website&8 - &fwww.hcf.com'
+- '&7Buycraft&8 - &fstore.hcf.com'
+- '&7Teamspeak&8 - &fts.hcf.com'
+- '&8&m------------------------------------'
+Famous:
+- '&7&m------------------------------------'
+- '&2&lconfig.yml'
+- '&7&m------------------------------------'
+Youtube:
+- '&7&m------------------------------------'
+- '&2&lconfig.yml'
+- '&7&m------------------------------------'
+MiniYT:
+- '&7&m------------------------------------'
+- '&2&lconfig.yml'
+- '&7&m------------------------------------'
+Teamspeak:
+- '&7Teamspeak: &fts.server.net'
+teamspeak-frozen: ts.server.net
+
+Coords:
+- '&8&m----------------------------------------'
+- '&2&lCoords'
+- '&6Spawn: &70,0 &7(Overworld)'
+- '&7Nether Spawn: &70,0 &7(Nether)'
+- '&7EndPortals: &70,1500,0 &7(All for quads)'
+- '&8&m----------------------------------------'
+Online-Donator-Broadcast:
+- ''
+- '&6&lDONOR PLAYERS &6>> %player%'
+- '&ePuedes Adquirir tu rango en nuestra tienda store.example.us'
+- ''
+spawn:
+  world: world
+  x: 0.538049846829157
+  y: 69.0
+  z: 0.6617853658512408
+  yaw: 0.78689575
+  pitch: 11.715501
+STARTED_RECORDING:
+- '&7&m--------------------------'
+- ''
+- '&9%player% &7has started &3recording'
+- ''
+- '&7&m--------------------------'
+STOPPED_RECORDING:
+- '&7&m--------------------------'
+- ''
+- '&9%player% &7has stopped &3recording'
+- ''
+- '&7&m--------------------------'
