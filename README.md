@@ -11,16 +11,16 @@ Thanks to the developer iPiru_ for the optimization of the core and add small co
 
 ✹Features added by the developer iPiru_:
 
-● EggTeleport within the core
+✓EggTeleport within the core
 
-● Interegraded snowballs in the core
+✓ Interegraded snowballs in the core
 
-● Snowball timers and eggteleports on the scoreboard
+✓ Snowball timers and eggteleports on the scoreboard
 
-● Added grapplig hook ability you get it by running the command / grapple
+✓ Added grapplig hook ability you get it by running the command / grapple
 
-● / King Event event for hcf
+✓ / King Event event for hcf
 
-● Base Interegraded in the core
+✓ Base Interegraded in the core
 
 ● Thanks 𝖎𝖕𝖎𝖗𝖚_ for everything.
