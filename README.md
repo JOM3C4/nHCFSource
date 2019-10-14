@@ -9,7 +9,7 @@ Thanks to the developer iPiru_ for the optimization of the core and add small co
 -Twitter: XiPiru_
 
 
-✹Features added by the developer iPiru_:
+✹Features added by the developer iPiru_ and JOM3C4: 
 
 ✓EggTeleport within the core
 
