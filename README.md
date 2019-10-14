@@ -19,7 +19,7 @@ Thanks to the developer iPiru_ for the optimization of the core and add small co
 
 ✓ Added grapplig hook ability you get it by running the command / grapple
 
-✓ / King Event event for hcf
+✓King Event event for hcf
 
 ✓ Base Interegraded in the core
 
