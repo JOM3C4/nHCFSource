@@ -7,7 +7,8 @@ Thanks to the developer iPiru_ for the optimization of the core and add small co
 
 -Discord: iPiru_#5773 
 -Twitter: XiPiru_
-
+- Twitter: @JOM3C4
+- Discord: JOM3C4#4771
 
 ✹Features added by the developer iPiru_ and JOM3C4: 
 
@@ -23,4 +24,6 @@ Thanks to the developer iPiru_ for the optimization of the core and add small co
 
 ✓ Base Interegraded in the core
 
-● Thanks 𝖎𝖕𝖎𝖗𝖚_ for everything.
+✓Soon More Features
+
+● Thanks 𝖎𝖕𝖎𝖗𝖚_ for everything. 
